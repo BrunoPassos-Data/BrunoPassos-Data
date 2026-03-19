@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Bruno!
 
-🎯 Em transição de carreira para a área de Dados, com foco em me tornar um Data Analyst.
+🎯 Estudante do 3o Semestre de Desenvolvimento de Software Multiplataforma pela Fatec Mauá, em transição de carreira para a área de Dados, com foco em me tornar um Data Analyst.
 
 Atualmente estou desenvolvendo habilidades em análise, tratamento e visualização de dados, aplicando conceitos na prática através de projetos reais.
 
@@ -45,6 +45,7 @@ Desenvolver habilidades sólidas em análise de dados e construir um portfólio 
 
 ## 📚 Atualmente estudando
 
+- Desenvolvimento de Software Multiplataforma
 - Google Data Analytics Certificate  
 - Python para análise de dados  
 - SQL para manipulação de dados  
@@ -53,9 +54,13 @@ Desenvolver habilidades sólidas em análise de dados e construir um portfólio 
 
 ## 📬 Contato
 
-- 💼 LinkedIn: https://linkedin.com/in/seu-perfil  
-- 📧 Email: seuemail@email.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/bruno-de-oliveira-passos
+- 📧 Email: bruno_o_passos@outlook.com
 
 ---
 
 ⭐ Este perfil está em constante evolução. Novos projetos serão adicionados em breve!
+
+---
+
+_"Aquele que cede a todos os seus desejos e vontades torna-se um mero escravo de si mesmo e de seus anseios. <br> Aquele que aprende a discernir o que é bom e mau pra si e tem controle sobre seus impulsos conhece a sua verdadeira liberdade."_
